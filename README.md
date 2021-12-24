@@ -1,19 +1,4 @@
-# projeto_vue_1
+# Estudo de vue.js
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Estudo e prática seguindo o curso do `Matheus Battisti` do canal `Home de Codar` 
+  - Link do curso https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
